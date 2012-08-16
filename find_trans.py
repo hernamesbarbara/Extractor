@@ -2,7 +2,7 @@ from BeautifulSoup import BeautifulSoup
 import re
 
 
-path = "./pdfs/test/"
+path = "./pdfs/"
 f = 'bank_statement5.html'
 page = open(path+f, 'rb')
 
